@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tdt:home|Door43 (tdt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tdt|d43-tdt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tdt/archive/master.zip|d43-tdt.zip]]
+
+**Recent Changes**
+{{changes>ns = tdt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tdt|Ethnologue data]]
+
